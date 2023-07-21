@@ -1,0 +1,113 @@
+body{
+   margin:0px;
+   height:100%;
+    
+    }
+    .b{
+        background-image:url('financial.jpg');
+    background-size:cover;
+    background-repeat:no-repeat;
+    height:100%;
+    
+
+    }
+    .x{
+        width:400px;
+        height:600px;
+    background-color:black;
+    opacity:0.4;
+    position:absolute;
+    top:0px;
+    left:400px;
+    
+    
+    }
+    .y{
+    width:400px;
+    height:100%;
+    
+    position:absolute;
+    top:0px;
+    left:400px;
+    
+    
+    }
+    .t4{
+        margin-top:0px;
+    
+    background:transparent;
+    border:none;
+    border-bottom-style:solid;
+    border-bottom-color:red;
+    border-bottom-size:5px;
+    color:white;
+    }
+    .t4:hover
+    {
+    border-bottom-style:solid;
+    border-bottom-color:green;
+    
+    
+    }
+    .t{
+    padding-top:100px;
+    padding-left:100px;
+    }
+    .t5{
+    background:transparent;
+    border:none;
+    border-bottom-style:solid;
+    border-bottom-color:red;
+    border-bottom-size:5px;
+    color:white;
+    }
+    .t5:hover
+    {
+    border-bottom-style:solid;
+    border-bottom-color:green;
+    
+    }
+    .t1{
+    
+    padding-left:100px;
+    }
+    .t6{
+        margin-top:10px;
+        padding-top: 0px;
+        
+    
+    }
+    .t6:hover
+    {
+        
+        text-decoration:underline;
+        text-decoration-color:green;
+        text-decoration-thickness:3px;
+    }
+    ::placeholder{
+    color:white;
+    opacity:1;
+    }
+    .t2{
+    
+    padding-left:100px;
+    
+    }
+    .t7{
+    align:center;
+    color:white;
+    background-color:green;
+    width:200px;
+    margin-left:0px;
+    margin-top:0px; 
+    box-shadow:2px 2px 2px 2px black;
+    }
+    .t8{
+    padding-left:100px;
+    margin-top:0px;
+    }
+    .b1{
+        text-decoration: none;
+        margin-top: 0px;
+        padding-top: 0px;
+    }
